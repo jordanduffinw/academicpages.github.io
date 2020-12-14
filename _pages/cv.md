@@ -16,15 +16,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 * UNL Bureau of Business Research (2018 - 2020)
   * Developer for [Rural Futures Institute Thriving Index](https://ruralprosperityne.unl.edu/thriving-index)
   * Contributor for [U.S. Foreign Policy for the Middle Class: Perspectives from Nebraska](https://carnegieendowment.org/2020/05/21/u.s.-foreign-policy-for-middle-class-perspectives-from-nebraska-pub-81767)
    * Contributor for [Nebraska Leading Economic Indicator](https://business.unl.edu/research/bureau-of-business-research/leading-economic-indicator-reports/)
+* UNL Department of Mathematics (2018-2019)
+  * Math Resource Center Counselor
+  * Learning Assistant for MATH 106: Calculus 1
+* Southwest High School (Lincoln, NE)
+  * Assistant Speech and Debate Coach, with a focus on limited prep events
+  * Tournament Judge, including mulitple Championship Rounds at the National Individual Events Tournament of Champions (NIETOC)
 
   
 Skills
