@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jordan Duffin Wong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student, Department of Political Science @ Washington University in St. Louis. Partisanship, Polarization, and Statistical Inference."
   location         : "St. Louis, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jordan.d.wong@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
