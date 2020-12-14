@@ -13,7 +13,6 @@ Education
 ======
 * B.A. in Economics and Political Science, University of Nebraska - Lincoln, 2020
 
-
 Work experience
 ======
 * UNL Bureau of Business Research (2018 - 2020)
@@ -26,16 +25,6 @@ Work experience
 * Southwest High School (Lincoln, NE)
   * Assistant Speech and Debate Coach, with a focus on limited prep events
   * Tournament Judge, including mulitple Championship Rounds at the National Individual Events Tournament of Champions (NIETOC)
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,7 +43,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
