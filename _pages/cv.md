@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics and Political Science, University of Nebraska - Lincoln, 2020
+
 
 Work experience
 ======
@@ -22,10 +21,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* UNL Bureau of Business Research (2018 - 2020)
+  * Developer for [Rural Futures Institute Thriving Index](https://ruralprosperityne.unl.edu/thriving-index)
+  * Contributor for [U.S. Foreign Policy for the Middle Class: Perspectives from Nebraska](https://carnegieendowment.org/2020/05/21/u.s.-foreign-policy-for-middle-class-perspectives-from-nebraska-pub-81767)
+
   
 Skills
 ======
