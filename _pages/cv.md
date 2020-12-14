@@ -22,7 +22,7 @@ Work experience
 * UNL Department of Mathematics (2018-2019)
   * Math Resource Center Counselor
   * Learning Assistant for MATH 106: Calculus 1
-* Southwest High School (Lincoln, NE)
+* Southwest High School (2017-2020, Lincoln, NE)
   * Assistant Speech and Debate Coach, with a focus on limited prep events
   * Tournament Judge, including mulitple Championship Rounds at the National Individual Events Tournament of Champions (NIETOC)
 
