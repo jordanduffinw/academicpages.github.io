@@ -24,6 +24,7 @@ Work experience
 * UNL Bureau of Business Research (2018 - 2020)
   * Developer for [Rural Futures Institute Thriving Index](https://ruralprosperityne.unl.edu/thriving-index)
   * Contributor for [U.S. Foreign Policy for the Middle Class: Perspectives from Nebraska](https://carnegieendowment.org/2020/05/21/u.s.-foreign-policy-for-middle-class-perspectives-from-nebraska-pub-81767)
+   * Contributor for [Nebraska Leading Economic Indicator](https://business.unl.edu/research/bureau-of-business-research/leading-economic-indicator-reports/)
 
   
 Skills
