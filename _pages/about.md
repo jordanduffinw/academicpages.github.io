@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-It's me! The website is still under development.
+It's JDW! The website is still under development -- I don't have much of a professional history and haven't had anything resembling a professional photograph taken in years, but in due time this place will look more like a "real" website.
